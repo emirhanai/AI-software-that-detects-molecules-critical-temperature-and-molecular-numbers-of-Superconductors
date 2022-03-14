@@ -10,7 +10,7 @@ AI Inventor - Sr. AI Engineer
 
 ###**The coding language used:**
 
-`Python 3.9.8`
+`Python 3.9.6`
 
 ###**Libraries Used:**
 
